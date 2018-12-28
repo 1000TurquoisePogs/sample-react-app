@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/zowe/sample-react-app#readme",
   "dependencies": {
-    "zlux-app-manager": "git+ssh://git@github.com:1000TurqoisePogs/zlux-app-manager.git#feature\/test-npm-deps"
+    "zlux-app-manager": "git+ssh://git@github.com:1000TurquoisePogs/zlux-app-manager.git#feature\/test-npm-deps"
   }  
 }
